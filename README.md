@@ -2,37 +2,27 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,40:0d3d6e,100:00bcd4&height=220&section=header&text=Ishan%20Deshmukh&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Mechatronics%20%7C%20Robotics%20%7C%20Embedded%20%7C%20AI&descAlignY=56&descAlign=50&descSize=18" />
 
+<br/>
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=1000&color=00BCD4&center=true&vCenter=true&width=750&lines=Building+what+shouldn%27t+exist+yet.;Circuits+%7C+Code+%7C+Chaos+%7C+Control.;AIR+22+%E2%80%94+DD+Robocon+2025+%F0%9F%8F%86;Patent+Pending+%7C+2+Research+Papers.;If+Stark+built+it+in+a+cave...;...imagine+what+I+build+in+a+lab." alt="Typing SVG" />
+
+<br/><br/>
+
+<img src="./terminal.svg" alt="apt-get install ishan-deshmukh" />
+
+<br/><br/>
 
 </div>
 
 ---
 
-<img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Robotics gif"/>
-
-```bash
-$ whoami
-
-  Name    →  Ishan Deshmukh
-  Degree  →  Mechatronics Eng, MIT Manipal '26
-  Rank    →  AIR 22 @ DD Robocon 2025 🏆
-  Team    →  Senior Electronics, Team Robomanipal
-  Head    →  Robotics, IE Mechatronics MIT
-  Intern  →  Electrical & Embedded @ Cosy Farms
-  Patent  →  Pending — Tactile Stimulation Toy
-  Papers  →  2x In Progress (BCG ML + Soft Gripper)
-  Motto   →  "Engineering should be bold & obsessive."
-```
-
-> *"If Tony Stark built it in a cave — imagine what I build in a lab."*
-
-<br clear="right"/>
-
----
+<br/>
 
 ### ⚙️ Tech Arsenal
 
 <div align="center">
+
+<br/>
 
 **Embedded & Microcontrollers**
 
@@ -42,10 +32,14 @@ $ whoami
 ![Embedded C](https://img.shields.io/badge/Embedded_C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
+<br/>
+
 **PCB & Hardware Design**
 
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
 ![Altium Designer](https://img.shields.io/badge/Altium_Designer-A5915F?style=for-the-badge&logoColor=white)
+
+<br/>
 
 **CAD, Simulation & Manufacturing**
 
@@ -54,6 +48,8 @@ $ whoami
 ![ANSYS](https://img.shields.io/badge/ANSYS-FFB71B?style=for-the-badge&logoColor=black)
 ![3D Printing](https://img.shields.io/badge/3D_Printing-00bcd4?style=for-the-badge&logoColor=white)
 
+<br/>
+
 **Robotics, Automation & Control**
 
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
@@ -61,6 +57,8 @@ $ whoami
 ![KUKA](https://img.shields.io/badge/KUKA-F28C0F?style=for-the-badge&logoColor=white)
 ![PLC](https://img.shields.io/badge/PLC_Programming-0061A8?style=for-the-badge&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+
+<br/>
 
 **AI, Vision & Software**
 
@@ -71,11 +69,17 @@ $ whoami
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+<br/>
+
 </div>
 
 ---
 
+<br/>
+
 ### 🚀 What I Build
+
+<br/>
 
 | Domain | Stack |
 |:---|:---|
@@ -86,34 +90,52 @@ $ whoami
 | ⚙️ **Automation** | PLC Programming · MATLAB · Simulink · Industrial Robots |
 | 🎮 **Simulation** | Unity 3D · Gazebo · RViz |
 
+<br/>
+
 ---
+
+<br/>
 
 ### 📊 GitHub Stats
 
+<br/>
+
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AutoM80r&theme=github_dark" />
-</div>
 
-<div align="center">
+  <br/><br/>
+
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AutoM80r&theme=github_dark" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AutoM80r&theme=github_dark" />
-</div>
 
-<div align="center">
+  <br/><br/>
+
   <img src="https://streak-stats.demolab.com/?user=AutoM80r&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00BCD4&fire=00BCD4&currStreakLabel=00BCD4" />
 </div>
 
+<br/>
+
 ---
 
+<br/>
+
 ### 📈 Contribution Activity
+
+<br/>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AutoM80r&bg_color=0d1117&color=00bcd4&line=00bcd4&point=ffffff&area=true&hide_border=true" />
 </div>
 
+<br/>
+
 ---
 
+<br/>
+
 ### 🏆 Highlights
+
+<br/>
 
 ```
 🥇  AIR 22         — DD Robocon 2025 (National Robotics Championship)
@@ -124,9 +146,15 @@ $ whoami
 🌍  Languages      — Hindi · Marathi · English · Deutsch (lernend)
 ```
 
+<br/>
+
 ---
 
+<br/>
+
 ### 🌐 Find Me
+
+<br/>
 
 <div align="center">
 
@@ -136,11 +164,17 @@ $ whoami
 
 </div>
 
+<br/>
+
 ---
+
+<br/>
 
 <div align="center">
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=AutoM80r&style=for-the-badge&color=00BCD4&label=PROFILE+VIEWS)
+
+<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bcd4,60:0d3d6e,100:0a1628&height=120&section=footer" />
 

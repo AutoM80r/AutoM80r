@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 300" width="680" height="300">
+
+  <!-- Window background -->
+  <rect width="680" height="300" rx="12" fill="#0d1117"/>
+
+  <!-- Title bar -->
+  <rect width="680" height="38" rx="12" fill="#161b22"/>
+  <rect y="26" width="680" height="12" fill="#161b22"/>
+  <line x1="0" y1="38" x2="680" y2="38" stroke="#30363d" stroke-width="1"/>
+
+  <!-- Traffic lights -->
+  <circle cx="24" cy="19" r="7" fill="#ff5f56"/>
+  <circle cx="46" cy="19" r="7" fill="#ffbd2e"/>
+  <circle cx="68" cy="19" r="7" fill="#27c93f"/>
+
+  <!-- Title text -->
+  <text x="340" y="24" text-anchor="middle"
+        font-family="'Courier New', Courier, monospace"
+        font-size="12" fill="#6e7681">bash — ishan@portfolio: ~</text>
+
+  <!-- Line 1: prompt + command -->
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.4s" dur="0.01s" fill="freeze"/>
+    <text x="20" y="68" font-family="'Courier New', Courier, monospace" font-size="13.5">
+      <tspan fill="#3fb950">$</tspan>
+      <tspan fill="#e6edf3"> apt-get install </tspan>
+      <tspan fill="#58a6ff">ishan-deshmukh</tspan>
+    </text>
+  </g>
+
+  <!-- Line 2: Reading package lists -->
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="1.0s" dur="0.01s" fill="freeze"/>
+    <text x="20" y="98" font-family="'Courier New', Courier, monospace" font-size="13.5">
+      <tspan fill="#8b949e">Reading package lists... </tspan>
+      <tspan fill="#3fb950">Done</tspan>
+    </text>
+  </g>
+
+  <!-- Line 3: Building dependency tree -->
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="1.4s" dur="0.01s" fill="freeze"/>
+    <text x="20" y="120" font-family="'Courier New', Courier, monospace" font-size="13.5">
+      <tspan fill="#8b949e">Building dependency tree... </tspan>
+      <tspan fill="#3fb950">Done</tspan>
+    </text>
+  </g>
+
+  <!-- Line 4: The following packages -->
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="1.8s" dur="0.01s" fill="freeze"/>
+    <text x="20" y="142" font-family="'Courier New', Courier, monospace"
+          font-size="13.5" fill="#8b949e">The following packages will be installed:</text>
+  </g>
+
+  <!-- Line 5: package names row 1 -->
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="2.1s" dur="0.01s" fill="freeze"/>
+    <text x="20" y="164" font-family="'Courier New', Courier, monospace"
+          font-size="13.5" fill="#e6edf3" font-weight="bold">mechatronics-4.0  robotics-senior  stm32-expert</text>
+  </g>
+
+  <!-- Line 6: package names row 2 -->
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="2.3s" dur="0.01s" fill="freeze"/>
+    <text x="20" y="186" font-family="'Courier New', Courier, monospace"
+          font-size="13.5" fill="#e6edf3" font-weight="bold">sensor-fusion  solidworks-pro  patent-holder</text>
+  </g>
+
+  <!-- Line 7: Unpacking -->
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="2.7s" dur="0.01s" fill="freeze"/>
+    <text x="20" y="218" font-family="'Courier New', Courier, monospace" font-size="13.5">
+      <tspan fill="#58a6ff">Unpacking </tspan>
+      <tspan fill="#e6edf3">ishan-deshmukh (4.0.2026)</tspan>
+      <tspan fill="#58a6ff"> ...</tspan>
+    </text>
+  </g>
+
+  <!-- Progress bar -->
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="3.0s" dur="0.01s" fill="freeze"/>
+    <!-- track -->
+    <rect x="20" y="242" width="560" height="13" rx="4" fill="#21262d"/>
+    <!-- fill (animated) -->
+    <rect x="20" y="242" width="2" height="13" rx="4" fill="#3fb950">
+      <animate attributeName="width" from="2" to="314" begin="3.2s" dur="2.2s"
+               calcMode="spline" keyTimes="0;1" keySplines="0.4 0 0.2 1"
+               values="2;314" fill="freeze"/>
+    </rect>
+    <!-- pct label -->
+    <text x="590" y="255" font-family="'Courier New', Courier, monospace"
+          font-size="13.5" fill="#3fb950">56%</text>
+  </g>
+
+</svg>
